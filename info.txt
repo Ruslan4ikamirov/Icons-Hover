@@ -1,0 +1,5 @@
+Facebook : #1976d3
+YouTube : #f44236
+Twitter : #03a9f5
+тень кнопок : 0 10px 10px rgba(0, 0, 0, 0.1)
+общий фон : #f2f2fe
